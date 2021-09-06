@@ -9,7 +9,7 @@ const Footer = () => {
             target="_blank"
             rel="noreferrer"
           >
-            Marcelo Mangini Guedes
+            Marcelo Mangini
           </a>
         </p>
         <p className="text-light">
